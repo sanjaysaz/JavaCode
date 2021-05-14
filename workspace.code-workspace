@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "hacker"
+		},
+		{
+			"name": "demo",
+			"path": "..\\WorkSpace\\demo"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		]
+	}
+}
